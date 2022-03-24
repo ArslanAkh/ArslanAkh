@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArslanAkh
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on real workplace
+- 💞️ I’m looking to collaborate on real project and to become a professional developer
 - 📫 How to reach me: kydapropal@gmail.com
 
 
