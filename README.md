@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, that's why I'm here =)
 - 🌱 I’m currently learning Java and like it
 - 💞️ I’m looking to collaborate on real projects and to become a professional developer
-- 📫 How to reach me: kydapropal@gmail.com or @H4mmer_T1me(telegram)
+- 📫 How to reach me: kydapropal@gmail.com or @H4mmer_T1me (telegram)
 
 
 <!---
